@@ -1,4 +1,12 @@
 <?php
+
+function theme_support(){
+    // Detta skapar dynamic title support
+    add_theme_support('title-tag');
+}
+
+add_action('after_theme_setup', 'theme_support');
+
 function load_css()
 {
     wp_register_style(
