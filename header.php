@@ -13,9 +13,4 @@
             )
         )
         ?>
-        <div class="main-wrapper">
-            <header class="page-title">
-                <h1 class="title"><?php the_title(); ?></h1>
-            </header>
-        </div>
     </header>
