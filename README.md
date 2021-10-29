@@ -1,3 +1,3 @@
 # CMS-Uppgift2
 
-![alt text](https://gyazo.com/1d5b6b9f12a967ceadf1f9927b9fefff)
+![Kundens Sida](https://user-images.githubusercontent.com/70195705/139353856-ab61e3d9-eb97-4902-bb2b-4fafaf2ac473.png)
